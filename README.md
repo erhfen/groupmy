@@ -1,2 +1,2 @@
-grooupmy
+groupmy
 ========
